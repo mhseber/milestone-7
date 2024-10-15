@@ -13,7 +13,7 @@ const prices = products.map(product => product.price)
 // 2 forEach
 products.forEach(product => console.log(product.color))
 
-// 3 filter 
+// 3 filter
 const cheap = products.filter(product => product.price <= 50000);
 // console.log(cheap);
 
