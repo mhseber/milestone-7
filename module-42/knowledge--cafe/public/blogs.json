@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/j40JfBH/1.jpg",
+        "title": "The Enchanted Forest",
+        "author": "MH SEBER",
+        "author_Img": "https://i.ibb.co.com/6YVqS2V/boy1.png",
+        "posted_date": "2024-10-15",
+        "reading_time": "8 min",
+        "hashtags": [
+            "#Fantasy",
+            "#Adventure",
+            "#Nature",
+            "#Magic"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/PDvwLQs/2.png",
+        "title": "Tech Trends 2024",
+        "author": "TUSAR H",
+        "author_Img": "https://i.ibb.co.com/XD4WxPc/boy2.jpg",
+        "posted_date": "2024-10-20",
+        "reading_time": "5 min",
+        "hashtags": [
+            "#Technology",
+            "#AI",
+            "#Innovation",
+            "#Future"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/RznNp34/3.png",
+        "title": "Meditation: A Path to Mindfulness",
+        "author": "Priya Gupta",
+        "author_Img": "https://i.ibb.co.com/41CgKmK/girl1.jpg",
+        "posted_date": "2024-09-30",
+        "reading_time": "6 min",
+        "hashtags": [
+            "#Mindfulness",
+            "#Meditation",
+            "#Wellness",
+            "#Health"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/P9ZND0v/4.jpg",
+        "title": "Cooking with Spice: A World Tour",
+        "author": "SEEA",
+        "author_Img": "https://i.ibb.co.com/C1S39m1/girl2.jpg",
+        "posted_date": "2024-10-10",
+        "reading_time": "10 min",
+        "hashtags": [
+            "#Cooking",
+            "#Recipes",
+            "#Spices",
+            "#Foodie"
+        ]
+    }
+]
